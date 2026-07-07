@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = " https://smart-healthcare-system-gg3i.onrender.com"
+BASE_URL = "BASE_URL = "https://smart-healthcare-system-gg3i.onrender.com""
 
 
 def register_user(data):
