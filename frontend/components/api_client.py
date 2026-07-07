@@ -1,6 +1,6 @@
 import requests
 
-BASE_URL = "http://127.0.0.1:8000"
+BASE_URL = "https://smart-healthcare-system-gg3i.onrender.com"
 
 
 def register_user(data):
